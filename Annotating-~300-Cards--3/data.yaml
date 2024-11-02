@@ -1,0 +1,30 @@
+names:
+- Blue_Card
+- Change_Color
+- Draw_Four
+- Draw_Two
+- Green_Card
+- Number_0
+- Number_1
+- Number_2
+- Number_3
+- Number_4
+- Number_5
+- Number_6
+- Number_7
+- Number_8
+- Number_9
+- Red_Card
+- Reverse
+- Skip
+- Yellow_Card
+nc: 19
+roboflow:
+  license: CC BY 4.0
+  project: annotating-300-cards
+  url: https://universe.roboflow.com/pde3821/annotating-300-cards/dataset/3
+  version: 3
+  workspace: pde3821
+test: ../test/images
+train: ../train/images
+val: ../valid/images
